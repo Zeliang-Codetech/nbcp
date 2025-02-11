@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "394669225570",
+    "project_id": "pollutionboard-f2285",
+    "storage_bucket": "pollutionboard-f2285.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394669225570:android:d4eaf1dd8879ce7f4bc33b",
+        "android_client_info": {
+          "package_name": "com.pollutionboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5PAwLhnTRawFXOefwLW5O48wnC9JSLP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

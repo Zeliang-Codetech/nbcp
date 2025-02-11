@@ -1,0 +1,16 @@
+export default {
+  SCREEN_MAIN: 'Main',
+  SCREEN_HOME: 'Aqi',
+  SCREEN_PROFILE: 'Profile',
+  SCREEN_SPLASH: 'Splash',
+  SCREEN_OTP: 'Otp',
+  SCREEN_BULLETIN: 'Bulletin',
+  SCREEN_COMPLAINTS: 'Complaints',
+  SCREEN_MANAGE: 'Manage',
+  SCREEN_LOGIN: 'Login',
+  SCREEN_ADD_EDIT_COMPLAINT: 'add-edit-complaint',
+  SCREEN_COMPLAINT_DETAIL: 'complaint-detail',
+  SCREEN_ABOUT_US: 'about-us',
+  SCREEN_AREAS: 'Stations',
+  SCREEN_CITIES: 'Air Quality Index',
+};
